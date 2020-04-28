@@ -1,6 +1,2 @@
-#include "..\cogmap2.dmm"
-#include "..\z2.dmm"
-#include "..\z3.dmm"
-#include "z4.dm"
-#include "..\z5.dmm"
+#include "..\trerrimap.dmm"
 #define MAP_MODE "standard"
